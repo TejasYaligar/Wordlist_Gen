@@ -1,4 +1,4 @@
-# 🛠 Personalized Wordlist Generator
+# 🛠 73j45-Wordlists
 
 🚀 A **CLI-based tool** for Kali Linux that generates **custom password wordlists** based on user-provided information like name, date of birth, city, and favorite animal.  
 🔒 Helps in **targeted password cracking** and penetration testing by creating more relevant and effective wordlists.
