@@ -22,7 +22,7 @@ git clone https://github.com/TejasYaligar/Wordlist_Gen.git
 
 ### **2️⃣ Change Directory**
 ```bash
-cd Wordlist_gen
+cd Wordlist_Gen
 ```
 
 ### **3️⃣ Install Dependencies**
