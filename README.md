@@ -43,4 +43,4 @@ This tool is made for educational and security testing purposes only.
 ## **🌟 Contributions**
 Feel free to fork this repo, open issues, and submit PRs to improve the tool!
 
-🔗 GitHub Repo: https://github.com/TejasYaligar/Personalized_WordlistGen
+🔗 GitHub Repo: https://github.com/TejasYaligar/Wordlist_Gen
